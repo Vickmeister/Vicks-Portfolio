@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Vicks-Portfolio/static/css/main.bab0b925.chunk.css",
+    "main.js": "/Vicks-Portfolio/static/js/main.50fa280e.chunk.js",
+    "main.js.map": "/Vicks-Portfolio/static/js/main.50fa280e.chunk.js.map",
+    "runtime-main.js": "/Vicks-Portfolio/static/js/runtime-main.4f51f1d5.js",
+    "runtime-main.js.map": "/Vicks-Portfolio/static/js/runtime-main.4f51f1d5.js.map",
+    "static/js/2.8cafcb06.chunk.js": "/Vicks-Portfolio/static/js/2.8cafcb06.chunk.js",
+    "static/js/2.8cafcb06.chunk.js.map": "/Vicks-Portfolio/static/js/2.8cafcb06.chunk.js.map",
+    "index.html": "/Vicks-Portfolio/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "/Vicks-Portfolio/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.8cafcb06.chunk.js.LICENSE.txt": "/Vicks-Portfolio/static/js/2.8cafcb06.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f51f1d5.js",
+    "static/js/2.8cafcb06.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.50fa280e.chunk.js"
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "main": {
+    "image":"VickBJJ.jpg",
+    "bio":"Being a massive sports fan, I think of Web Development as an entire sports season: you start your project by taking on a specific part of that project, similar to playing your first game. Eventually, you go through the season facing challenges and successes; one day you set a piece of code together looks marvelous, but then the next day you spend an awfully infuriating amount of time wondering why your code isn't working. However, like any sports team, you practice at your craft; you learn and apply that knowledge going forward. That is the mentality that I have adopted since the first I typed my first piece of code. Always a student of the game.",
+    "contactmessage":"Should you have any questions or comments, please feel free to reach out. I'd love to hear from you! (Side note: for privacy reasons, I will not be posting my phone number or address. However, I can provide those upon request.)",
+    "email": "vick.manjarrez@gmail.com",
+    "website": "https://github.com/Vickmeister",
+    "resumedownload":"https://drive.google.com/file/d/1ACqi5d7gI09lmo0ji0PmP2uXE5r0uVKA/view?usp=sharing",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/vick-manjarrez-4ab804131/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Vickmeister",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Experienced in:",
+    "education":[
+      {
+        "school":"Northwestern University",
+        "degree":"Professional Studies Certificate in Web Development",
+        "graduated":"December 2020",
+        "description":"Completed a six-month course in Full Stack Web Development"
+      },
+      {
+        "school":"University of Illinois-Chicago",
+        "degree":"BA in Economics; Minor in Communications",
+        "graduated":"May 2016",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Chubb Limited",
+        "title":"Risk Management Analyst",
+        "years":"May 2019 - Present"
+      },
+      {
+        "company":"Chubb Limited",
+        "title":"Claims Adjuster",
+        "years":"June 2017 - May 2019"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Github"
+      },
+      {
+        "name":"HTML5"
+      },
+      {
+        "name":"CSS"
+      },
+      {
+        "name":"Javascript"
+      },
+      {
+        "name":"Node.js"
+      },
+      {
+        "name":"React.js"
+      },
+      {
+        "name":"MongoDB"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Projects coming soon",
+        "category":"",
+        "image":"",
+        "url":""
+      },
+      {
+        "title":"Projects coming soon",
+        "category":"",
+        "image":"",
+        "url":""
+      },
+      {
+        "title":"Projects coming soon",
+        "category":"",
+        "image":"",
+        "url":""
+      },
+      {
+        "title":"Projects coming soon",
+        "category":"",
+        "image":"",
+        "url":""
+      },
+      {
+        "title":"Projects coming soon",
+        "category":"",
+        "image":"",
+        "url":""
+      }
+    ]
+  }
+}
